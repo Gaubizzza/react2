@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	height: 100%;
+}
+.hleb{
+	text-align: center;
+	font-size: 50px;
+	
+}
+.baton{
+	border-color: blueviolet;
+	border-radius: 2px;
+}
